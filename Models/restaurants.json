@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "restaurant": "Hyderabad House",
+        "city": "hyderabad",
+        "image": "https://curlytales.com/wp-content/uploads/2018/05/540547_161429664018527_1326858599_n.jpg",
+        "reviews": [
+            { "username": "Arjun", "rating": 5, "comment": "Best Hyderabadi Biryani in town!" },
+            { "username": "Sneha", "rating": 4, "comment": "Tasty but could use more spices." }
+        ]
+    },
+    {
+        "id": 2,
+        "restaurant": "Kolkata Sweets",
+        "city": "kolkata",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/30/2b/45/a-relaxed-outdoor-space.jpg?w=600&h=-1&s=1",
+        "reviews": [
+            { "username": "Anjali", "rating": 5, "comment": "Rasgullas melt in your mouth!" },
+            { "username": "Vikram", "rating": 3, "comment": "Too crowded, service needs improvement." }
+        ]
+    },
+    {
+        "id": 3,
+        "restaurant": "Chennai Cafe",
+        "city": "chennai",
+        "image": "https://assets.zeezest.com/blogs/PROD_chennai_1693402248806.jpg",
+        "reviews": [
+            { "username": "Karthik", "rating": 5, "comment": "Crispy dosas with perfect chutney." },
+            { "username": "Meera", "rating": 4, "comment": "Good food, but limited seating." }
+        ]
+    },
+    {
+        "id": 4,
+        "restaurant": "Jaipur Spices",
+        "city": "jaipur",
+        "image": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2025-03/MERLOT.jpg",
+        "reviews": [
+            { "username": "Rajesh", "rating": 5, "comment": "Authentic Dal Bati Churma!" },
+            { "username": "Pooja", "rating": 4, "comment": "Loved the food, but slightly oily." }
+        ]
+    }
+]
